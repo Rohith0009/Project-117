@@ -1,0 +1,18 @@
+body{
+    background-color: paleturquoise;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+#timer{
+        font-size: 25px;
+float: right;
+margin-right: 140px;
+}
+
+#tbd{
+    color: limegreen;
+}
